@@ -2,11 +2,11 @@
 ### My 18- Week Project. An ASP.NET CORE Web Appliucation for MSSA.
 ---
 
-Kwadjo Akpalo
+Kwadjo Akpalo <br />
 
-MSSA CAD
+MSSA CAD <br />
 
-Jan 23, 2021
+Jan, 2021
 
 -------
 
