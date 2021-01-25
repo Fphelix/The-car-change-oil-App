@@ -35,12 +35,12 @@ After you are done, it will ask you to rate your experience and the work done by
 
 
 +	User Account should be like this
-Name: Phelix Akpalo
-Vehicle: Mazda
-Make:  6
-Model: Touring
-Book now : The user will be able to put the date and time 
-Types of oil: The user will determine which oil they want 
+1.Name: Phelix Akpalo
+1.Vehicle: Mazda
+1.Make:  6
+1.Model: Touring
+  *Book now : The user will be able to put the date and time 
+   *Types of oil: The user will determine which oil they want 
 Location: 126 Adamsway st 
 Payment Method: User will input their payment method 
 •	For existing customers there would be additional information stored such as 
