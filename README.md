@@ -36,10 +36,10 @@ After you are done, it will ask you to rate your experience and the work done by
 
 +	User Account should be like this
 
-1.Name: Phelix Akpalo
-2.Vehicle: Mazda
-3.Make:  6
-4.Model: Touring
+1 .Name: Phelix Akpalo
+2. Vehicle: Mazda
+3. Make:  6
+4. Model: Touring
   *Book now : The user will be able to put the date and time 
    *Types of oil: The user will determine which oil they want 
 Location: 126 Adamsway st 
