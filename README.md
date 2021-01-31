@@ -19,19 +19,24 @@ Time to change oil? This app will help you save time and money. We are all busy 
  Also, with the application, you will be able to set up an appointment. The system will remind you when your car is due. You can also request other services such as car detailing, tires replacement, fluids replacement and some cars parts replacements. This car service will handle all types of cars. The system will give you option of technicians that are in the area and their ratings. After each service it will ask you to rate the technician and review his work. 
  
 1-	**Registration**
+
 The application will _get_ your important demographic such as full name, address and phone number. Then It will ask you relevant information about your car such as: make, model, mileage, last oil checkup, last detail done.
 
 2-	**Login**
+
 When you login, the application will display all your information including your __car__ information
 
 3-	**Services**
+
 After login, you have 3 options to choose from:  a- Oil change b- Car detailing c- tire change d- Make an appointment d- Last service done plus reminder 
 
 4-	**Service of choice** 
+
 Whether you chose a, b or c, a work request would be created and a technician assigned to you.
 +	Appointment: you will be able to set up an appointment for somebody to come work on your car
 
 5- **Last service done and  reminder:**
+
 will be able to see your last service done plus a reminder of when your next service is due 
 After you are done, it will ask you to rate your experience and the work done by the technician. This application will be used by the client to request oil change service. It will also be used by the mechanics or anybody who can do an oil change on a particular car. 
 
