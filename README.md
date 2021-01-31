@@ -34,7 +34,7 @@ address and phone number. Then It will ask you relevant information about your c
 
 2-	**Login**
 
-When uou login the application will display youyr name, address, car information and ask yu to choose between 
+When you login the application will display youyr name, address, car information and ask yu to choose between 
 
 a. Oil Change
 
