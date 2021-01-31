@@ -25,8 +25,8 @@ The application will _get_ your important demographic such as full name, address
 2-	**Login**
 
 When uou login the application will display youyr name, address, car information and ask yu to choose between 
-- a- Oild Change
-- b- Car Detailing
+1. Oild Change
+2. Car Detailing
 
 4-	**Service of choice** 
 
