@@ -40,11 +40,11 @@ a. Oil Change
 
 b. Car Detailing
 
-4-	**Service of choice** 
+3-	**Service of choice** 
 
 Whether you chose between a or b  you will be able to set up an appointment for a Technician to complete the service requested
 
-5- **User Account:**
+4- **User Account:**
 
 +	User Account would look like this
 
