@@ -28,9 +28,10 @@ When you login, the application will display all your information including your
 After login, you have 3 options to choose from:  a- Oil change b- Car detailing c- tire change d- Make an appointment d- Last service done plus reminder 
 
 4-	**Service of choice** 
-Whether you chose a, b or c, the application will take your address and see which technician is available in your area and assign one to you. 
+Whether you chose a, b or c, a work request would be created and a technician assigned to you.
 +	Appointment: you will be able to set up an appointment for somebody to come work on your car
-5-	Last service done + reminder: will be able to see your last service done plus a reminder of when your next service is due 
+5- **Last service done and  reminder:**
+will be able to see your last service done plus a reminder of when your next service is due 
 After you are done, it will ask you to rate your experience and the work done by the technician. This application will be used by the client to request oil change service. It will also be used by the mechanics or anybody who can do an oil change on a particular car. 
 
 
