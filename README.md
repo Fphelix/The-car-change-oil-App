@@ -15,9 +15,8 @@ Project Step 2
 
 #### Introduction
 
-Time to change oil or need car detailing? This app will help you save time, gas and money. We are all busy with our life and sometimes small stuff such as oil change get forgotten. Keep up with your car’s maintenance can be difficult. With the oil change application, this problem can be solved. Also if you need your car detailing you can also use this app  All you need to do is to log in to the app, and request an oil change. Put your address and then a technician would come to your place and fulfill your request
- Also, with the application, you will be able to set up an appointment. The system will remind you when your car is due. You can also request other services such as car detailing, tires replacement, fluids replacement and some cars parts replacements. This car service will handle all types of cars. The system will give you option of technicians that are in the area and their ratings. After each service it will ask you to rate the technician and review his work. 
- 
+Time to change oil? This app will help you save time, gas and money. We are all busy with our life and sometimes small stuff such as oil change get forgotten. Keep up with your car’s maintenance can be difficult. With the oil change application, this problem can be solved. Also if you need your car detailing and give it a brand new shine again, this application is exactly what you need. All you need to do is to log in to the app, choose a service and make an appointment for your oil change or or your car detailing. A technician will be dispatched to you to fulfill your need.
+
 1-	**Registration**
 
 The application will _get_ your important demographic such as 
