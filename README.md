@@ -60,6 +60,9 @@ Last Oil Change :PennZoil Sysnthetic Oil
 
 New Appointment : 0 
 
+Last Detailing : 10 Apr 2021
+
+
 
 
 
