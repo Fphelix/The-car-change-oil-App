@@ -26,6 +26,9 @@ The application will _get_ your important demographic such as
 - Make
 - Model
 - Year
+- Mileage
+- Last Oil Checkup
+- Last Detailing 
 
 address and phone number. Then It will ask you relevant information about your car such as: make, model, mileage, last oil checkup, last detail done.
 
