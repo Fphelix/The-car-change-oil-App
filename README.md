@@ -20,7 +20,14 @@ Time to change oil? This app will help you save time and money. We are all busy 
  
 1-	**Registration**
 
-The application will _get_ your important demographic such as full name, address and phone number. Then It will ask you relevant information about your car such as: make, model, mileage, last oil checkup, last detail done.
+The application will _get_ your important demographic such as 
+- full name
+-Address
+- Make
+-Model
+- Year
+
+address and phone number. Then It will ask you relevant information about your car such as: make, model, mileage, last oil checkup, last detail done.
 
 2-	**Login**
 
@@ -32,14 +39,9 @@ b. Car Detailing
 
 4-	**Service of choice** 
 
-Whether you chose a, b or c, a work request would be created and a technician assigned to you.
-+	Appointment: you will be able to set up an appointment for somebody to come work on your car
+Whether you chose between a or b  you will be able to set up an appointment for a Technician to complete the service requested
 
-5- **Last service done and  reminder:**
-
-You will be able to see your last service done plus a reminder of when your next service is due 
-After you are done, it will ask you to rate your experience and the work done by the technician. This application will be used by the client to request oil change service. It will also be used by the mechanics or anybody who can do an oil change on a particular car. 
-
+5- **User Account:**
 
 +	User Account would look like this
 
