@@ -43,23 +43,16 @@ After you are done, it will ask you to rate your experience and the work done by
 
 +	User Account should be like this
 
-1 .Name: Phelix Akpalo
+Don Joe: 1998 Honda accord
 
-2. Vehicle: Mazda
+Current Mileage: 32,000
 
-3. Make:  6
+Next Mileage Due: 35,000
 
-4. Model: Touring
-  *Book now : The user will be able to put the date and time 
-   *Types of oil: The user will determine which oil they want 
-Location: 126 Adamsway st 
-Payment Method: User will input their payment method 
-•	For existing customers there would be additional information stored such as 
-Current mileage: 32000 miles
-Last Oil Change: 10 January 2021
-Type of Oil used: Pennzoil Synthetic oil 
-Next oil change: 35000 miles
-My appointment: 0 appointment scheduled. .
+Estimated Due Date : 
+
+Last oil used : 
+
 
 
 
