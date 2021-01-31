@@ -41,7 +41,7 @@ will be able to see your last service done plus a reminder of when your next ser
 After you are done, it will ask you to rate your experience and the work done by the technician. This application will be used by the client to request oil change service. It will also be used by the mechanics or anybody who can do an oil change on a particular car. 
 
 
-+	User Account should be like this
++	User Account would look like this
 
 Don Joe: 1998 Honda accord
 
@@ -49,9 +49,14 @@ Current Mileage: 32,000
 
 Next Mileage Due: 35,000
 
-Estimated Due Date : 
+Estimated Due Date : 15 Apr 2021
 
-Last oil used : 
+Last Oil Change :PennZoil Sysnthetic Oil
+
+New Appointment : 0 
+
+
+
 
 
 
