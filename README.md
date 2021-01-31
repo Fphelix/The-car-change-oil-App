@@ -22,7 +22,7 @@ Time to change oil? This app will help you save time and money. We are all busy 
 
 The application will _get_ your important demographic such as 
 - full name
--Address
+- Address
 - Make
 -Model
 - Year
